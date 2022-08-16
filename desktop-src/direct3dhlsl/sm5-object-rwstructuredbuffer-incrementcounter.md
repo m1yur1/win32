@@ -9,7 +9,7 @@ topic_type:
 api_name:
 - IncrementCounter
 api_location:
-- httpserv.h
+- 
 api_type:
 - HeaderDef
 ms.topic: reference
